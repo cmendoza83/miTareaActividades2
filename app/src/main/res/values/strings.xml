@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiTarea Activities</string>
+    <string name="itNombre">Nombre completo</string>
+    <string name="itFechaNac">Fecha nacimiento</string>
+    <string name="itTelefono">Telefono</string>
+    <string name="itEmail">E-mail</string>
+    <string name="itDescripcion">Descripcion contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditar">Editar</string>
+
+</resources>
